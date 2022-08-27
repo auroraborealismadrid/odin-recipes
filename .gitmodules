@@ -1,0 +1,3 @@
+[submodule "repo/odin-recipes"]
+    path = reop/odin-recipes
+    url = https://auroraborealismadrid.github.io/odin-recipes/
